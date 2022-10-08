@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @Andrevlopess
-- 👀 I’m interesly learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Andrevlopess/Andrevlopess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Andrevlopess,
+ I'm a programming student focused on front-end languages 
