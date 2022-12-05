@@ -2,7 +2,7 @@
  Programming student focused on front-end languages 
  
 
-# Tools and Skills
+# :rocket: Tools and Skills
 ![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -16,7 +16,7 @@
 - Typescript
  
 
-# Contact me
+# 		:raising_hand_man: Contact me
 
 <a href="https://www.instagram.com/andrevlopesz/"><img src="https://user-images.githubusercontent.com/99695454/205683114-c0ba214b-b739-4918-abb2-f3488bbb2d0f.png" width="35px" /></a>
 <a href="https://twitter.com/andrevlopess"><img src="https://user-images.githubusercontent.com/99695454/205683521-97b53644-4227-400c-ae70-5467891e27f4.png" width="35px" /></a>
