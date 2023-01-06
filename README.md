@@ -22,7 +22,10 @@
 <a href="https://www.instagram.com/andrevlopesz/"><img src="https://user-images.githubusercontent.com/99695454/205683114-c0ba214b-b739-4918-abb2-f3488bbb2d0f.png" width="35px" /></a>
 <a href="https://twitter.com/andrevlopess"><img src="https://user-images.githubusercontent.com/99695454/205683521-97b53644-4227-400c-ae70-5467891e27f4.png" width="35px" /></a>
 <a href="mailto:andrellopes021@gmail.com"><img src="https://user-images.githubusercontent.com/99695454/205683980-7c83b3e8-d8db-4480-8879-4193fcfb0253.png" width="35px" /></a>
+#
 
+![wrapped_Andrevlopess](https://user-images.githubusercontent.com/99695454/211088680-1e441025-3fa6-4903-b7e7-29ffe55eef61.png)
 
-<img src='https://user-images.githubusercontent.com/99695454/211084731-b4dafdea-c85b-4e0d-aad4-ff172675d149.gif' width='180px' height='180'/>
+#
+
 
