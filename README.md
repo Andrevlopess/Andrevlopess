@@ -24,8 +24,5 @@
 <a href="mailto:andrellopes021@gmail.com"><img src="https://user-images.githubusercontent.com/99695454/205683980-7c83b3e8-d8db-4480-8879-4193fcfb0253.png" width="35px" /></a>
 #
 
-![wrapped_Andrevlopess](https://user-images.githubusercontent.com/99695454/211088680-1e441025-3fa6-4903-b7e7-29ffe55eef61.png)
-
-#
 
 
