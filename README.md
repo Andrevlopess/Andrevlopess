@@ -1,7 +1,6 @@
  ### I´m ᴀɴᴅʀᴇ ᴠ ʟᴏᴘᴇs
  Programming student focused on front-end languages 
  
- ### <a href="https://andrevlopes.vercel.app">My Personal Portifolio</a>
  
 
 # :rocket: Tools and Skills
