@@ -1,5 +1,5 @@
  ### I´m ᴀɴᴅʀᴇ ᴠ ʟᴏᴘᴇs
- ## Front-end dev
+ ## Front-end dev and web developer!
  
  
 
