@@ -1,12 +1,12 @@
  ### I´m ᴀɴᴅʀᴇ ᴠ ʟᴏᴘᴇs
- ## Front-end dev and web developer!
+ ## Fullstack developer
  
  
 
 # :rocket: Tools and Skills
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +28,6 @@
 # 		:raising_hand_man: Contact me
 
 <a href="https://www.instagram.com/andrevlopess/"><img src="https://user-images.githubusercontent.com/99695454/205683114-c0ba214b-b739-4918-abb2-f3488bbb2d0f.png" width="35px" /></a>
-<a href="https://twitter.com/andrevlopess"><img src="https://user-images.githubusercontent.com/99695454/205683521-97b53644-4227-400c-ae70-5467891e27f4.png" width="35px" /></a>
 <a href="mailto:andrellopes021@gmail.com"><img src="https://user-images.githubusercontent.com/99695454/205683980-7c83b3e8-d8db-4480-8879-4193fcfb0253.png" width="35px" /></a>
 #
 
